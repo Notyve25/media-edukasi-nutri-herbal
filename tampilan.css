@@ -1,0 +1,70 @@
+h1 {
+    color: aquamarine;
+    font-size: 50px;
+    font-style: oblique;
+}
+
+h2 {
+    color: bisque;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/712/985/non_2x/abstract-health-medical-science-healthcare-icon-digital-technology-science-concept-modern-innovation-treatment-medicine-on-hi-tech-future-blue-background-for-wallpaper-template-web-design-vector.jpg);
+}
+
+header {
+    text-align: center;
+}
+
+nav { 
+background-color: aqua;
+padding: 5px;
+border-radius: 20px;}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 17px;
+    font-weight: bold;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 255);
+}
+
+nav ul li a:hover {
+    color: rgb(253, 195, 5);
+}
+
+nav ul li a i {
+    margin-right: 7px;
+}
+
+main {
+    margin-bottom: 10px;
+}
+
+article {
+    padding: 20px;
+    background-color: blanchedalmond;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+
+}
+
+h4 {
+    text-align: center;
+    background-color: rgb(0, 225, 255);
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
